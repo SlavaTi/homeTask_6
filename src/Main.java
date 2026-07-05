@@ -85,7 +85,7 @@ public class Main {
         int year = 0;
         while (year <= 2200) {
             if ((year % span == 0) && (year >= 1826) && (year <= 2126)) {
-                System.out.println("Год пролёта каметы " + year);
+                System.out.println("Год пролёта кометы " + year);
             }
             year ++;
 
